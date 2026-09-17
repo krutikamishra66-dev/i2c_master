@@ -1,4 +1,4 @@
- # I2C Protocol Controller (Digital VLSI ASIC Flow)
+ # I2C_MASTER Protocol Controller (Digital VLSI ASIC Flow)
 
 A complete **Digital VLSI ASIC Design Flow** for an **I2C Master Controller**, covering RTL design, functional verification, logic synthesis, and Physical Design (Place & Route) using the **Cadence Tool Suite**.
 
